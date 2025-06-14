@@ -23,9 +23,9 @@ All releases are stored in the `releases` directory, organized by version number
 ## Version History
 
 ### Latest Version
-- Version: 1.0.0
+- Version: 1.0.1
 - Changes:
-  - Initial release
+  - Expanded context menu for icon & name
   - Basic functionality
 
 ## Security
