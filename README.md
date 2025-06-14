@@ -24,11 +24,9 @@ All releases are stored in the `releases` directory, organized by version number
 
 ### Latest Version
 - Version: 1.0.0
-- Release Date: [Current Date]
 - Changes:
   - Initial release
   - Basic functionality
-  - Installation wizard
 
 ## Security
 
