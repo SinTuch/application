@@ -20,12 +20,10 @@ All releases are stored in the `releases` directory, organized by version number
 - USB port for KeyPad device
 - Internet connection for updates
 
-## Version History
-
 ### Latest Version
-- Version: 1.0.2
+- Version: 1.1.0
 - Changes:
-  - Changed context menu data
+  - Added Alt symbols handle
 
 ## Security
 
