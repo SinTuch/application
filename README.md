@@ -21,9 +21,9 @@ All releases are stored in the `releases` directory, organized by version number
 - Internet connection for updates
 
 ### Latest Version
-- Version: 1.1.0
+- Version: 1.1.1
 - Changes:
-  - Added Alt symbols handle
+  - Cosmetic changes
 
 ## Security
 
