@@ -21,9 +21,9 @@ All releases are stored in the `releases` directory, organized by version number
 - Internet connection for updates
 
 ### Latest Version
-- Version: 2.0.0
+- Version: 2.0.1
 - Changes:
-  - Completely new UI design
+  - Added serial recognition for Linux OS
 
 ## Security
 
