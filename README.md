@@ -21,9 +21,9 @@ All releases are stored in the `releases` directory, organized by version number
 - Internet connection for updates
 
 ### Latest Version
-- Version: 2.1.1
+- Version: 2.1.2
 - Changes:
-  - Temp Folder delete warning fix
+  - Fix infinite scripts in macro actions
 
 ## Security
 
