@@ -23,7 +23,7 @@ All releases are stored in the `releases` directory, organized by version number
 ### Latest Version
 - Version: 2.1.3
 - Changes:
-  - SinTuch v2.1.3
+  - Added crash logging
 
 ## Security
 
