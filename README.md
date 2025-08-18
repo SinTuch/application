@@ -21,9 +21,9 @@ All releases are stored in the `releases` directory, organized by version number
 - Internet connection for updates
 
 ### Latest Version
-- Version: 2.1.2
+- Version: 2.1.3
 - Changes:
-  - Fix infinite scripts in macro actions
+  - SinTuch v2.1.3
 
 ## Security
 
