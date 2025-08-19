@@ -21,9 +21,9 @@ All releases are stored in the `releases` directory, organized by version number
 - Internet connection for updates
 
 ### Latest Version
-- Version: 2.1.5
+- Version: 2.1.6
 - Changes:
-  - Fixed Load macros functionality
+  - Updated save macro functionality
 
 ## Security
 
