@@ -21,9 +21,9 @@ All releases are stored in the `releases` directory, organized by version number
 - Internet connection for updates
 
 ### Latest Version
-- Version: 2.1.3
+- Version: 2.1.4
 - Changes:
-  - Added crash logging
+  - Fix crashes, restructure Capture functionality
 
 ## Security
 
