@@ -21,9 +21,9 @@ All releases are stored in the `releases` directory, organized by version number
 - Internet connection for updates
 
 ### Latest Version
-- Version: 2.1.4
+- Version: 2.1.5
 - Changes:
-  - Fix crashes, restructure Capture functionality
+  - Fixed Load macros functionality
 
 ## Security
 
