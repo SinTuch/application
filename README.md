@@ -21,9 +21,9 @@ All releases are stored in the `releases` directory, organized by version number
 - Internet connection for updates
 
 ### Latest Version
-- Version: 2.1.8
+- Version: 2.1.9
 - Changes:
-  - Fixed unexpected crashes
+  - Added version control
 
 ## Security
 
