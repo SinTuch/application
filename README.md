@@ -21,9 +21,9 @@ All releases are stored in the `releases` directory, organized by version number
 - Internet connection for updates
 
 ### Latest Version
-- Version: 2.1.9
+- Version: 2.1.10
 - Changes:
-  - Added version control
+  - Only one instance run
 
 ## Security
 
