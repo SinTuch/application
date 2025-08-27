@@ -5,7 +5,7 @@ This repository contains the release files for the SinTuch application.
 ## Releases
 
 All releases are stored in the `releases` directory, organized by version number. Each release includes:
-- SinTuch.exe (Main application)
+- SinTuchInstaller.exe
 - Release notes
 - SHA256 checksum
 
@@ -23,7 +23,7 @@ All releases are stored in the `releases` directory, organized by version number
 ### Latest Version
 - Version: 2.1.10
 - Changes:
-  - Only one instance run
+  - Create inno installer for SinTuch.exe
 
 ## Security
 
