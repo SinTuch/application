@@ -21,9 +21,9 @@ All releases are stored in the `releases` directory, organized by version number
 - Internet connection for updates
 
 ### Latest Version
-- Version: 2.1.10
+- Version: 2.1.11
 - Changes:
-  - Create inno installer for SinTuch.exe
+  - Added If condition block
 
 ## Security
 
