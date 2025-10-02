@@ -21,10 +21,9 @@ All releases are stored in the `releases` directory, organized by version number
 - Internet connection for updates
 
 ### Latest Version
-- Version: 2.1.12
+- Version: 2.1.13
 - Changes:
-  - Fixed crasshes
-  - Added new block
+  - Added manual coordinate input
 
 ## Security
 
