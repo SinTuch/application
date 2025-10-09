@@ -21,9 +21,10 @@ All releases are stored in the `releases` directory, organized by version number
 - Internet connection for updates
 
 ### Latest Version
-- Version: 2.1.13
+- Version: 2.2.1
 - Changes:
-  - Added manual coordinate input
+  - Major release
+  - Added hardware level HID
 
 ## Security
 
