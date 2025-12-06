@@ -21,10 +21,9 @@ All releases are stored in the `releases` directory, organized by version number
 - Internet connection for updates
 
 ### Latest Version
-- Version: 2.2.2
+- Version: 2.2.3
 - Changes:
-  - Added number pad numbers
-  - Fixed runtime errors
+  - Removed outdated functions
 
 ## Security
 
