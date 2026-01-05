@@ -21,9 +21,10 @@ All releases are stored in the `releases` directory, organized by version number
 - Internet connection for updates
 
 ### Latest Version
-- Version: 2.2.4
+- Version: 2.3.0
 - Changes:
-  - Added media control
+  - Logic with windows control
+  - Runtime error fixes
 
 ## Security
 
