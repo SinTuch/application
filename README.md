@@ -23,8 +23,8 @@ All releases are stored in the `releases` directory, organized by version number
 ### Latest Version
 - Version: 2.3.2
 - Changes:
-  - Fixed knob movement
-  - Refined save functionality
+  - Added DPI scaling
+  - Fixed runtime errors
 
 ## Security
 
