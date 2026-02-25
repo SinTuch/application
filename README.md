@@ -21,10 +21,9 @@ All releases are stored in the `releases` directory, organized by version number
 - Internet connection for updates
 
 ### Latest Version
-- Version: 2.3.4
+- Version: 2.3.5
 - Changes:
-  - Faster icon loading
-  - Fixed bugs
+  - Added while toggled block
 
 ## Security
 
