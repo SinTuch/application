@@ -21,10 +21,10 @@ All releases are stored in the `releases` directory, organized by version number
 - Internet connection for updates
 
 ### Latest Version
-- Version: 2.3.3
+- Version: 2.3.4
 - Changes:
-  - Added DPI scaling
-  - Fixed runtime errors
+  - Faster icon loading
+  - Fixed bugs
 
 ## Security
 
