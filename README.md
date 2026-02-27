@@ -21,9 +21,9 @@ All releases are stored in the `releases` directory, organized by version number
 - Internet connection for updates
 
 ### Latest Version
-- Version: 2.3.5
+- Version: 2.3.6
 - Changes:
-  - Added while toggled block
+  - Added hardware simulated mouse events
 
 ## Security
 
