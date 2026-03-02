@@ -21,9 +21,9 @@ All releases are stored in the `releases` directory, organized by version number
 - Internet connection for updates
 
 ### Latest Version
-- Version: 2.3.6
+- Version: 2.3.7
 - Changes:
-  - Added hardware simulated mouse events
+  - Added keyboard
 
 ## Security
 
