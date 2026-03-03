@@ -21,9 +21,9 @@ All releases are stored in the `releases` directory, organized by version number
 - Internet connection for updates
 
 ### Latest Version
-- Version: 2.3.7
+- Version: 2.3.8
 - Changes:
-  - Added keyboard
+  - Fix coordinates capture when scale applied
 
 ## Security
 
