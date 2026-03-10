@@ -21,9 +21,9 @@ All releases are stored in the `releases` directory, organized by version number
 - Internet connection for updates
 
 ### Latest Version
-- Version: 2.3.9
+- Version: 2.4.0
 - Changes:
-  - Improved Press Block
+  - Added macro recording functionality
 
 ## Security
 
