@@ -21,9 +21,9 @@ All releases are stored in the `releases` directory, organized by version number
 - Internet connection for updates
 
 ### Latest Version
-- Version: 2.4.1
+- Version: 2.4.2
 - Changes:
-  - Fixed recording bugs
+  - Fix multi macro execution
 
 ## Security
 
