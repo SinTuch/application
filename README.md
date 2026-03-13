@@ -21,9 +21,9 @@ All releases are stored in the `releases` directory, organized by version number
 - Internet connection for updates
 
 ### Latest Version
-- Version: 2.4.2
+- Version: 2.4.3
 - Changes:
-  - Fix multi macro execution
+  - Type text block acts as HID
 
 ## Security
 
