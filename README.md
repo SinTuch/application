@@ -21,9 +21,9 @@ All releases are stored in the `releases` directory, organized by version number
 - Internet connection for updates
 
 ### Latest Version
-- Version: 2.4.3
+- Version: 2.5.0
 - Changes:
-  - Type text block acts as HID
+  - Added RGB
 
 ## Security
 
