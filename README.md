@@ -21,9 +21,9 @@ All releases are stored in the `releases` directory, organized by version number
 - Internet connection for updates
 
 ### Latest Version
-- Version: 2.5.1
+- Version: 2.5.2
 - Changes:
-  - Improved macro execution
+  - Added dynamic name and icon change
 
 ## Security
 
