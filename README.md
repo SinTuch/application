@@ -21,9 +21,9 @@ All releases are stored in the `releases` directory, organized by version number
 - Internet connection for updates
 
 ### Latest Version
-- Version: 2.5.2
+- Version: 2.5.3
 - Changes:
-  - Added dynamic name and icon change
+  - Fixed RGB logic
 
 ## Security
 
