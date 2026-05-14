@@ -21,9 +21,9 @@ All releases are stored in the `releases` directory, organized by version number
 - Internet connection for updates
 
 ### Latest Version
-- Version: 2.6.0
+- Version: 2.6.1
 - Changes:
-  - Added script builder
+  - Added Dynamic preset update
 
 ## Security
 
